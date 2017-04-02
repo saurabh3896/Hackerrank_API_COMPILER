@@ -1,0 +1,31 @@
+{
+  "name": "thesolutionbank",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "~1.15.2",
+    "cheerio": "latest",
+    "connect-flash": "*",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.14.0",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "hbs": "~4.0.1",
+    "mongodb": "*",
+    "mongoose": "*",
+    "morgan": "~1.7.0",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "request": "latest",
+    "request-promise": "^4.1.1",
+    "serve-favicon": "~2.3.0"
+  }
+}
